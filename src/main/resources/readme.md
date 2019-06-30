@@ -1,0 +1,7 @@
+Autowired
+Component
+Qualifier
+Repository
+Service
+Controller
+RequestMapping
